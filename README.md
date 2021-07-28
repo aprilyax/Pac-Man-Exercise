@@ -1,4 +1,4 @@
-# Pac Men
+# Pac Man
 
 <img src="PacMan1.png" width='200' />
 
